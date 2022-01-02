@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercicio</title>
+</head>
+<body>
+    
+    <script>
+        const nome = prompt('Digite seu nome completo:');
+        document.body.innerHTML = `O seu nome é: ${nome} <br/>
+        Seu nome tem ${(nome.length)} letras <br/>
+        A segunda letra do seu nome é: ${(nome.charAt(1))}. <br/>
+        O primeiro e ultimo indice da letra L do seu nome é: ${nome.indexOf('l')} ${nome.lastIndexOf('l')} <br/>
+        As tres ultimas letras do seu nome são: ${nome.slice(-3)}. <br/>
+        As palavras do seu nome são: ${nome.split(' ')}. <br/>
+        Seu nome com letras maiusculas: ${nome.toLocaleUpperCase()} <br/>
+        Seu nome com letras minusculas: ${nome.toLocaleLowerCase()} `;
+        
+
+
+    </script>
+</body>
+</html>

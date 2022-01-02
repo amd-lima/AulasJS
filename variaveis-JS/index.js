@@ -32,6 +32,22 @@ console.log(`${nome} nasceu em ${(2021 - idade)}`);
 //João nasceu em 1991
 
 
+//atribuindo o valor de B ao A do C ao B e do A ao C
+const valA = 'A';
+const valB = 'B';
+const valC = 'C';
+
+let a = valB;
+let b = valC;
+let C = valA;
+console.log(a,b,C) // B C A
+
+//outra maneira de organizar as letras
+let vala = 'A';
+let valb = 'B';
+let valc = 'C';
+[vala, valb, valc] = [valb, valc, vala]
+console.log(vala, valb, valc) // B C A
 
 
 
