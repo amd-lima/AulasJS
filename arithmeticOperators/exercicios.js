@@ -1,4 +1,4 @@
-let numero = prompt('Dgite um número:');
+let numero = prompt('Digite um número:');
 const numTitulo = document.getElementById('numero-ttulo');
 let numtexto = document.getElementById('texto');
 numero = Number(numero)

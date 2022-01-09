@@ -16,4 +16,11 @@
 && -> and -> E  (All have to be true to return true)
 || -> or  -> ou (At least one has to be true to return true)
  ! -> not -> não (deny other expressions) 
+
+ Falsy
+    false
+    0
+    ' ' " " ` `
+    null / undefined
+    NaN
 */
