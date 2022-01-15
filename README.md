@@ -7,5 +7,5 @@
 
 ## Projects
 <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/html%2Bjs/assets" target="_blank"> Calculator IMC </a> </br>
-<img align="center" alt="img-calculator" height="300" width="300" src="https://github.com/AmandaLimaLuiz/AulasJS/blob/main/html%2Bjs/assets/table%20imc.png">
+<img align="center" alt="img-calculator" height="300" width="300" src="https://github.com/AmandaLimaLuiz/AulasJS/blob/main/html%2Bjs/ImcTableMadeByMe/table%20imc.png">
   
