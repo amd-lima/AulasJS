@@ -1,8 +1,8 @@
 //Caixas de texto
 alert('Olá mundo');
 confirm('Deseja realmente continuar?')
-let nome = prompt('Digite seu nome:')
-alert(nome)
+let nome22 = prompt('Digite seu nome:')
+alert(nome22)
 
 //escreve na pagina
 document.write('Escreve alguma coisa')

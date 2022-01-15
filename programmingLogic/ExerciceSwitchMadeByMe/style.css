@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&family=Mochiy+Pop+P+One&family=Open+Sans:ital,wght@0,400;1,700&display=swap');
+
+body{
+    background-color: rgb(250, 240, 249);
+}
+.container{
+    background-color: rgb(184, 120, 243);
+    padding: 20px;
+    box-shadow: 20px 20px rgb(92, 14, 92);
+    border-radius: 20px;
+}
+.container h1{
+    font-family: Luxurious Roman;
+    
+}
