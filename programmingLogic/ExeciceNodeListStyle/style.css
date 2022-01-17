@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+}
+.paragrafo{
+    background-color: rgb(188, 135, 238);
+    padding: 20px;
+    margin: 70px;
+    border-radius: 20px;
+
+}
