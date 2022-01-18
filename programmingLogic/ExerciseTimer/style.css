@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&family=Luxurious+Roman&family=Mochiy+Pop+P+One&family=Open+Sans:ital,wght@0,400;1,700&display=swap');
+body{
+    font-family: Luxurious Roman;
+    background-image:  url("img/time-g4db013dc4_1920.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+section{
+    margin: 80px 200px;
+    color: aliceblue;
+    background-color: rgb(82, 77, 87);
+    padding: 30px;
+    width: 200px;
+    border-radius: 20px;
+    text-align: center;
+}
+.container p{
+    font-weight: 5rem;
+    font-size: 1.2em;
+    background-color: aliceblue;
+    color: black;
+    padding: 8px 5px;
+    border-radius: 20px;
+    
+}
+
+.container button{
+    margin-top: 3px;
+    padding: 3px 8px;
+    background-color: rgb(182, 176, 124);
+    justify-content: space-between;
+    border-radius: 5px;
+    box-shadow: 2px 2px;
+    align-content: space-between;
+    margin: 5px 5px;
+}
+button:hover{
+    background-color: rgb(95, 92, 59);
+    color: aliceblue;
+}
