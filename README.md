@@ -28,7 +28,7 @@
 ![imc.gif](https://github.com/AmandaLimaLuiz/AulasJS/blob/main/programmingLogic/ExerciceSwitchMadeByMe/imc.gif) </br> 
 
 <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/programmingLogic/ExerciceTimer" target="_blank"> Timer </a> </br>
-![timer.gif](https://github.com/AmandaLimaLuiz/AulasJS/blob/main/programmingLogic/ExerciceTimer/img/timer.gif) </br>
+![timer.gif](https://github.com/AmandaLimaLuiz/AulasJS/blob/main/programmingLogic/ExerciceTimer/img/ezgif.com-gif-maker.gif) </br>
 
 <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/programmingLogic/ToDoList" target="_blank"> To Do List </a> </br>
 ![toDoList.gif](https://github.com/AmandaLimaLuiz/AulasJS/blob/main/programmingLogic/ToDoList/img/toDo.gif) </br>
