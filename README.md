@@ -22,9 +22,13 @@
 - <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/html%2Bjs" target="_blank">html+js</a>
 - <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/programmingLogic" target="_blank">Programming Logic</a>
 - <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/variables-JS" target="_blank">Variables-JS</a>
+- <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/fun%C3%A7oesAvan%C3%A7ado" target="_blank">Functions</a>
 
 ## Projects
-<a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/html%2Bjs/assets" target="_blank"> Calculator IMC </a> </br>
+<a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/fun%C3%A7oesAvan%C3%A7ado/Calculator" target="_blank"> Calculator </a> </br>
+![calculator.gif](https://github.com/AmandaLimaLuiz/AulasJS/blob/main/fun%C3%A7oesAvan%C3%A7ado/Calculator/img/gif.gif) </br> 
+
+<a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/programmingLogic/ExerciceSwitchMadeByMe" target="_blank"> Calculator IMC </a> </br>
 ![imc.gif](https://github.com/AmandaLimaLuiz/AulasJS/blob/main/programmingLogic/ExerciceSwitchMadeByMe/imc1.gif) </br> 
 
 <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/programmingLogic/ExerciceTimer" target="_blank"> Timer </a> </br>
