@@ -1,0 +1,56 @@
+@font-face {
+    font-family:Titulo;
+    src:url(../img/iArnold_font.ttf);
+    
+}
+body{
+    background-color: rgb(245, 207, 245);
+    background-size: cover;  
+    background-size: cover; 
+}
+.container{
+    margin: 10% 25%;
+    background-color: rgb(185, 115, 185);
+    color: rgb(17, 22, 22);
+    width: 420px;
+    padding: 20px;
+    border-radius: 20px;
+    font-family: 'Arial Narrow Bold', sans-serif
+}
+.container h1{
+    font-family: Titulo;
+    color: black;
+    font-size: 40px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+    
+}
+.calculadora{
+    width: 400px;
+}
+.display{
+    padding: 5px;
+    font-size: 2em;
+    width: 400px;
+    border-radius: 15px;
+    text-align: right;
+    box-shadow: 1px 1px rgb(117, 8, 85);
+    margin-bottom: 2px;
+}
+.btn{
+    width: 95%;
+    height: 44px;
+    font-size: 1.2em;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(253, 253, 253);
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(214, 194, 209);
+    font-size: 1.3em;
+    box-shadow: 1px 1px rgb(117, 8, 85);
+}
