@@ -55,16 +55,20 @@ function criaCalculadora(){
                 
                 if(el.classList.contains('btn-num')){
                    this.btnParaDisplay(el.innerText);
+                   this.display.focus();
                 }   
                 if(el.classList.contains('btn-clear')){
                     this.clearDisplay();
+                    this.display.focus();
                 }
                 if(el.classList.contains('btn-del')){
                     this.apagaUm();
+                    this.display.focus();
                 }
                 if(el.classList.contains('btn-eq')){
                     this.realizaConta();
                     this.pressionaEnter();
+                    this.display.focus();
                 }
                 this.display.focus();
             });

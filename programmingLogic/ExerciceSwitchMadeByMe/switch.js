@@ -5,7 +5,7 @@ const date = new Date();
 console.log(date)
 const day = date.getDay();
 
-const weekDay = ['Rest a little','Please come back Weekende', 'Second day, Stay Strong', 'Half the week has passed', 
+const weekDay = ['Rest a little','Please come back Weekend', 'Second day, Stay Strong', 'Half the week has passed', 
 'Almost there', "OMG It's friday", "Let's go to the beach" ]
 
 const mes = ['January', 'February', 'March', 'Aprir', 'May','June', 'July','August','September', 'October','November','December']
