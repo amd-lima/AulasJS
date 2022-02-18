@@ -41,3 +41,13 @@ function produto2(nome, preco, estoque){
 const p2 = new produto2('Calça', 40, 30);
 console.log(p2);
 console.log(Object.keys(p2));
+
+//Para saber como está as propriedades do objeto
+console.log(Object.getOwnPropertyDescriptor(p2,'nome'))
+/*{
+  value: 'Calça',
+  writable: true,
+  enumerable: true,
+  configurable: true
+}
+*/
