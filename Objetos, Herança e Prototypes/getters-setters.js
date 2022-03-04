@@ -41,3 +41,4 @@ function criaProduto(nome){
 
 const p2 = criaProduto('Vestido');
 console.log(p2.nome) //Vestido
+

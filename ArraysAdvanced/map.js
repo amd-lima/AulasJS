@@ -1,50 +1,49 @@
-/* Altera o valor do novo array, 
-
-Exemplo:Dobrar os numeros
-*/
-
-const NUM = [5, 8, 10, 9, 54, 3, 4, 15, 47, 2, 13, 1];
-const numEmDobro = NUM.map(function (valor) {
-  return valor * 2;
-});
-console.log(numEmDobro);
-
-/* Exercicio
-  Para cada elemento:
-    - Retorne apenas uma String com o nome da pessoa
-    - Remova apenas a chave "nome" do objeto
-    - Adicione uma chave id em cada objeto
-*/
-
 const pessoas = [
-  { nome: "Camila", idade: 62 },
-  { nome: "Joana", idade: 27 },
-  { nome: "Theo", idade: 95 },
-  { nome: "Thiago", idade: 35 },
-  { nome: "Julia", idade: 60 },
-  { nome: "Bia", idade: 60 },
+  {id: 3, nome: 'Bia'},
+  {id: 2, nome: 'wil'},
+  {id: 1, nome: 'theo'},
 ];
-const nome = pessoas.map(function (valor) {
-  return valor.nome;
-});
-console.log(nome); //[ 'Camila', 'Joana', 'Theo', 'Thiago', 'Julia', 'Bia' ]
 
-const idade = pessoas.map(function (obj) {
-  return obj.idade; //[ 62, 27, 95, 35, 60, 60 ]
-});
-console.log(idade)
+// NO EXEMPLO ABAIXO: COLOCANDO O ID COMO IDENTIFICADOR DE PESSOAS, ELE MUDA A ORDEM PRA CRESCENTE.
+  /* const ordenandoPessoas = {};
+  for (const pessoa of pessoas){
+    const {id} = pessoa;
+    ordenandoPessoas[id] = {...pessoa};
+  }
+  console.log(ordenandoPessoas)
+  {
+    '1': { id: 1, nome: 'theo' },
+    '2': { id: 2, nome: 'wil' },
+    '3': { id: 3, nome: 'Bia' }
+  } */
 
-const comId = pessoas.map(function (obj, indice) {
-  obj.id = indice;
-  return obj;
-});
-console.log(comId);
-/*
-  { nome: 'Camila', idade: 62, id: 0 },
-  { nome: 'Joana', idade: 27, id: 1 },
-  { nome: 'Theo', idade: 95, id: 2 },
-  { nome: 'Thiago', idade: 35, id: 3 },
-  { nome: 'Julia', idade: 60, id: 4 },
-  { nome: 'Bia', idade: 60, id: 5 }
+// UTILIZANNDO O MAP PARA NÃO ALTERAR A ORDEM EM QUE SÃO SALVO OS DADOS.
+  const ordenandoPessoas = new Map();
+    for (const pessoa of pessoas){
+      const {id} = pessoa;
+      ordenandoPessoas.set(id, {...pessoa});
+    }
+  console.log(ordenandoPessoas)
+  /* 
+  Map(3) {
+    3 => { id: 3, nome: 'Bia' },
+    2 => { id: 2, nome: 'wil' },
+    1 => { id: 1, nome: 'theo' }
+  } 
+  */
+// ACESSAR VALORES
+  for (const keys of ordenandoPessoas.keys()){
+    console.log(keys); // 3 2 1 
+  }
+  for (const valores of ordenandoPessoas.values()){
+    console.log(valores); // 3 2 1 
+  }
+  /*
+  { id: 3, nome: 'Bia' }
+  { id: 2, nome: 'wil' }
+  { id: 1, nome: 'theo' }
+  */
 
-*/
+// ELIMINAR VALORES
+ordenandoPessoas.delete(2);
+console.log(ordenandoPessoas); //{ 3 => { id: 3, nome: 'Bia' }, 1 => { id: 1, nome: 'theo' } }
