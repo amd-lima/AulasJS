@@ -23,19 +23,27 @@
 - <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/programmingLogic" target="_blank">Programming Logic</a>
 - <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/variables-JS" target="_blank">Variables-JS</a>
 - <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/fun%C3%A7oesAvan%C3%A7ado" target="_blank">Functions</a>
+- <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/ArraysAdvanced" target="_blank">Arrays Advanced</a>
+- <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/Objetos%2C%20Heran%C3%A7a%20e%20Prototypes" target="_blank">Object Prototype</a>
+- <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/POO" target="_blank">POO</a>
 
 ## Projects
-<a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/fun%C3%A7oesAvan%C3%A7ado/Calculator" target="_blank"> Calculator </a> </br>
+### <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/POO/FormularioDeCadastro" target="_blank"> form validation </a>  </br>
+<img alt="img-form" height="300" width="200" src="https://github.com/AmandaLimaLuiz/AulasJS/blob/main/POO/FormularioDeCadastro/img/tela1.png"> -
+![form.gif](https://github.com/AmandaLimaLuiz/AulasJS/blob/main/POO/FormularioDeCadastro/img/gif.gif)</br>
+
+
+### <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/fun%C3%A7oesAvan%C3%A7ado/Calculator" target="_blank"> Calculator </a> </br>
 ![calculator.gif](https://github.com/AmandaLimaLuiz/AulasJS/blob/main/fun%C3%A7oesAvan%C3%A7ado/Calculator/img/gif.gif) </br> 
 
-<a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/html%2Bjs/ImcTableMadeByMe" target="_blank"> Calculator IMC </a> </br>
+### <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/html%2Bjs/ImcTableMadeByMe" target="_blank"> Calculator IMC </a> </br>
 ![imc.gif](https://github.com/AmandaLimaLuiz/AulasJS/blob/main/programmingLogic/ExerciceSwitchMadeByMe/imc1.gif) </br> 
 
-<a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/programmingLogic/ExerciceTimer" target="_blank"> Timer </a> </br>
+### <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/programmingLogic/ExerciceTimer" target="_blank"> Timer </a> </br>
 ![timer.gif](https://github.com/AmandaLimaLuiz/AulasJS/blob/main/programmingLogic/ExerciceTimer/img/ezgif.com-gif-maker.gif) </br>
 
-<a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/programmingLogic/ToDoList" target="_blank"> To Do List </a> </br>
+### <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/programmingLogic/ToDoList" target="_blank"> To Do List </a> </br>
 ![toDoList.gif](https://github.com/AmandaLimaLuiz/AulasJS/blob/main/programmingLogic/ToDoList/img/ToDoList.gif) </br>
 
- <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/programmingLogic/ExerciceSwitchMadeByMe" target="_blank"> Using Dates </a> </br>
+### <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/programmingLogic/ExerciceSwitchMadeByMe" target="_blank"> Using Dates </a> </br>
 <img align="center" alt="img-calculator" height="100" width="400" src="https://github.com/AmandaLimaLuiz/AulasJS/blob/main/programmingLogic/ExerciceSwitchMadeByMe/data_1.png">
