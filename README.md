@@ -28,7 +28,7 @@
 - <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/POO" target="_blank">POO</a>
 
 ## Projects
-### <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/POO/FormularioDeCadastro" target="_blank"> form validation </a>  </br>
+### <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/POO/FormularioDeCadastro" target="_blank"> Form validation </a>  </br>
 <img alt="img-form" height="300" width="200" src="https://github.com/AmandaLimaLuiz/AulasJS/blob/main/POO/FormularioDeCadastro/img/tela1.png"> -
 ![form.gif](https://github.com/AmandaLimaLuiz/AulasJS/blob/main/POO/FormularioDeCadastro/img/gif.gif)</br>
 
