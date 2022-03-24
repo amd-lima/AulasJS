@@ -35,7 +35,7 @@ async function carregaPagina(el) {
     const response = await request(objConfig);
     carregaResultado(response);
   }catch(e) {
-    console.log(e);
+    console.error(e); //vermelho console.erro / amarelo ! console.warn
   }
   
 };
