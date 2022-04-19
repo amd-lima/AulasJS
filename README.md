@@ -47,3 +47,7 @@
 
 ### <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/programmingLogic/ExerciceSwitchMadeByMe" target="_blank"> Using Dates </a> </br>
 <img align="center" alt="img-calculator" height="100" width="400" src="https://github.com/AmandaLimaLuiz/AulasJS/blob/main/programmingLogic/ExerciceSwitchMadeByMe/data_1.png">
+
+### <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/html%2Bjs/projeto%20dark-mode%20DIO" target="_blank"> Dark Mode </a> </br>
+![dark-mode.gif](https://github.com/AmandaLimaLuiz/AulasJS/blob/main/html%2Bjs/projeto%20dark-mode%20DIO/tela.gif) </br>
+
