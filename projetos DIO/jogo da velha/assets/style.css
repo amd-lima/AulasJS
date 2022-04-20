@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap");
+body {
+  text-align: center;
+  background-color: #353232;
+  font-family: "Quicksand";
+}
+h1 {
+  padding-top: 50px;
+  color: #eee;
+  font-size: 40px;
+}
+.quadrado {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  width: 50px;
+  background: #eee;
+  display: inline-block;
+  padding: 40px;
+  font-size: 60px;
+  margin: 5px;
+  cursor: pointer;
+  border-radius: 12px;
+  box-shadow: 4px 4px #975cba;
+  color: #eee;
+}
+.quadrado:hover{
+  box-shadow: 4px 4px 4px 4px #31044c;
+  background: rgb(168, 167, 167);
+  color: rgb(168, 167, 167);
+}
+.jogador{
+  font-size: 30px;
+  margin: 20px;
+  color: #eee;
+}
+button{
+  font-family: "Quicksand";
+  color: #353232;
+  margin-top: 10px;
+  text-align: center;
+  background: #eee;
+  display: inline-block;
+  padding: 10px;
+  font-size: 25px;
+  margin: 5px;
+  cursor: pointer;
+  border-radius: 12px;
+  font-weight: bolder;
+}
+button:hover{
+  box-shadow: 4px 4px #975cba;
+  font-size: 26px;
+}
