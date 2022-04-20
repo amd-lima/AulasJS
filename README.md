@@ -58,6 +58,6 @@
 
 ![dark-mode.gif](https://github.com/AmandaLimaLuiz/AulasJS/blob/main/html%2Bjs/projeto%20dark-mode%20DIO/tela.gif) </br>
 
-### <a href="" target="_blank"> Jogo da Velha </a> </br>
+### <a href="https://github.com/AmandaLimaLuiz/AulasJS/tree/main/projetos%20DIO/jogo%20da%20velha" target="_blank"> Jogo da Velha </a> </br>
 
-![jogoDaVelha.gif]() </br>
+![jogoDaVelha.gif](https://github.com/AmandaLimaLuiz/AulasJS/blob/main/projetos%20DIO/jogo%20da%20velha/jogoDaVelha.gif) </br>
