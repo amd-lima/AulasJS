@@ -70,12 +70,13 @@ function createLaserElement() {
 
 function moveLaser(laser) {
   let laserInterval = setInterval(() => {
-      let xPosition = parseInt(laser.style.left);
-      let aliens = document.querySelectorAll('.alien');
+    let xPosition = parseInt(laser.style.left);
+    let aliens = document.querySelectorAll(".alien");
 
-      aliens.forEach((alien) => { //comparando se cada alien foi atingido, se sim, troca o src da imagem
+    aliens.forEach((alien) => {
+      //comparando se cada alien foi atingido, se sim, troca o src da imagem
       if (checkLaser(laser, alien)) {
-        alien.src ="https://github.com/SpruceGabriela/space-shooter-dio/blob/master/img/explosion.png?raw=true";
+        alien.src ="https://github.com/AmandaLimaLuiz/AulasJS/blob/main/projetos%20DIO/space%20shooter/img/fire.png?raw=true";
         alien.classList.remove("alien");
         alien.classList.add("dead-alien");
       }
