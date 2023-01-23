@@ -1,6 +1,6 @@
 ## Class-based study of:
 
-- <a href="https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/" target="_blank"> Curso de JavaScript e TypeScript do básico ao avançado 2021 </a>
+- <a href="https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/" target="_blank"> Curso de JavaScript e TypeScript do básico ao avançado  </a>
 - <a href="https://web.dio.me/home" target="_blank"> Digital Innovation One </a>
 
 | ☑ JavaScript Básico, Funcional e Orientado a Objetos (ES6+, front-end e back-end)    | ☑ HTML5 e CSS3 (Bônus Extra)</br>                             |
